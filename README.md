@@ -1,4 +1,5 @@
-# fsrm
+# fsrm 🗃️
+fsrm-classification
 
 ## Objective
 To classify files automatically and apply policies based on classification.
